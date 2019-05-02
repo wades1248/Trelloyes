@@ -1,0 +1,8 @@
+.App-List{
+  background-color: lightgray;
+  display:block;
+}
+.App-Header{
+  display: flex;
+  justify-content: center;
+}

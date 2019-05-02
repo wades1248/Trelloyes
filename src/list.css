@@ -1,0 +1,12 @@
+.List-cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+
+.List{
+    background-color: lightblue;
+    padding: 10px;
+    margin: 15px;
+}
